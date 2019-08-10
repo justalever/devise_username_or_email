@@ -1,24 +1,5 @@
-# README
+# Let's Build: With Ruby on Rails - Extending Devise Series
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## How to login with a username or email
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repo is the code base for a quick tutorial about extending the Devise gem using Ruby on Rails written by [Andy Leverenz](https://twitter.com/justalever) of [web-crunch.com](https://web-crunch.com). Check out the [YouTube channel](https://youtube.com/c/webcrunch) for more content.
