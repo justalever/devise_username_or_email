@@ -120,7 +120,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     public_suffix (3.1.1)
-    puma (3.12.1)
+    puma (3.12.3)
     rack (2.0.7)
     rack-protection (2.0.5)
       rack
@@ -238,7 +238,7 @@ DEPENDENCIES
   friendly_id (~> 5.2, >= 5.2.5)
   jbuilder (~> 2.7)
   listen (>= 3.0.5, < 3.2)
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 6.0.0.rc2)
   sass-rails (~> 5)
   selenium-webdriver
